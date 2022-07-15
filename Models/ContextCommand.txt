@@ -1,1 +1,0 @@
-﻿Scaffold-DbContext "Server=(LocalDb)\\MSSQLLocalDB;Database=LogQueries;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir LogQueries -Context LogQueriesContext -Schemas logQry -Force
